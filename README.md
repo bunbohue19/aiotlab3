@@ -30,7 +30,7 @@
 
 ### Sử dụng GPU:
 - Kiểm tra hoạt động của GPU: `nvidia -smi`
-- Có hai GPU: Con GTX TITAN X tên là `cuda:1` với ID là 1, con RTX 2080 Ti là `cuda:0` với ID là 0.
+- Có hai GPU: Con GTX TITAN X tên là `cuda:1` với ID là 0, con RTX 2080 Ti là `cuda:0` với ID là 1.
 - Nếu không tùy chỉnh, sẽ chỉ luôn chạy `cuda:0`
 
 - Chọn GPU để chạy: `export CUDA_VISIBLE_DEVICES="[ID của GPU]"`
