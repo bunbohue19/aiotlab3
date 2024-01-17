@@ -21,7 +21,8 @@
 
 ## Một số lưu ý chung:
 ### Lưu trữ dữ liệu:
-- Kiểm tra dung lượng cá nhân: `du -sh [Đường dẫn tới thư mục cá nhân của bạn]`. Nếu bạn đang ở thư mục cá nhân thì chỉ cần gõ `du -sh .`
+- Kiểm tra dung lượng cá nhân: `du -sh [Đường dẫn tới thư mục cá nhân của bạn]`. \
+  Nếu bạn đang ở thư mục cá nhân thì chỉ cần gõ `du -sh .`
 
 - Dung lượng của mỗi thư mục cá nhân được cài đặt tối đa là 50gb. Không được phép lưu trữ lớn hơn dung lượng này ở thư mục home.
  
