@@ -42,7 +42,7 @@
    Mô hình lớn: Là các mô hình có trên 1 tỷ tham số (VD: Llama-2, Mistral, TransformerXL,...)
    - Được phép sử dụng GPU cho mục đích huấn luyện, tinh chỉnh các mô hình nhỏ và suy diễn các mô hình lớn.
    - Không được phép sử dụng GPU cho việc huấn luyện và tinh chỉnh các mô hình lớn.\
-  Chi tiết về số lượng tham số của mô hình có thể xem ở HuggingFace hoặc chạy mã nguồn để kiểm tra.
+Chi tiết về số lượng tham số của mô hình có thể xem ở HuggingFace hoặc chạy mã nguồn để kiểm tra.
 
 ### Hệ thống
 - Thông tin về RAM theo thời gian thực: `top`.
