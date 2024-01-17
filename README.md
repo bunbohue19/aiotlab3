@@ -1,6 +1,6 @@
 # Quy tắc khi sử dụng máy chủ aiotlab3:
- - Tên máy chủ: aiotlab3
- - IP cố định: 202.191.58.201
+ - Tên máy chủ: `aiotlab3`
+ - IP cố định: `202.191.58.201`
 
 ## Thông tin phần cứng của server:
 - Mainboard: X570 AORUS ULTRA 
