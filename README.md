@@ -3,7 +3,7 @@
  - IP cố định: 202.191.58.201
 
 ## Thông tin phần cứng của server:
-- Mainboard: X570 AORUS ULTRA -CF
+- Mainboard: X570 AORUS ULTRA 
 - CPU: AMD Ryzen 9 3900X (24) @ 3.800GHz
 - GPU: NVIDIA GeForce GTX TITAN X
 - GPU: NVIDIA GeForce RTX 2080 Ti
