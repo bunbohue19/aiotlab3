@@ -16,7 +16,7 @@
 
 ## 2. Tạo workspace:
 - Sau khi hoàn thành bước 1, đi đến thư mục của lab: `cd /home/aiotlab3/RISE`.
-- Tiến hành tạo thư mục cá nhân theo họ tên riêng: <code>mkdir [Họ tên riêng]<code>. Ví dụ: Tên là Nguyễn Văn An thì `mkdir [annv]`.
+- Tiến hành tạo thư mục cá nhân theo họ tên riêng: `mkdir [Họ tên riêng]`. Ví dụ: Tên là Nguyễn Văn An thì `mkdir [annv]`.
 - Nếu muốn cấu hình các tùy chỉnh theo cá nhân thì phải được lưu trong thư mục cá nhân này.
 
 ## Một số lưu ý chung:
@@ -29,7 +29,7 @@
 
 ### Sử dụng GPU:
 - Kiểm tra hoạt động của GPU: `nvidia -smi`
-- Có hai GPU: Con GTX TITAN X tên là <code>cuda:1<code> với ID là 1, con RTX 2080 Ti là `cuda:0` với ID là 0.
+- Có hai GPU: Con GTX TITAN X tên là `cuda:1` với ID là 1, con RTX 2080 Ti là `cuda:0` với ID là 0.
 - Nếu không tùy chỉnh, sẽ chỉ luôn chạy `cuda:0`
 
 - Chọn GPU để chạy: `export CUDA_VISIBLE_DEVICES="[ID của GPU]"`
