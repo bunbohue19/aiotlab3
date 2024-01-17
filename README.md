@@ -36,8 +36,8 @@
 - Chọn GPU để chạy: `export CUDA_VISIBLE_DEVICES="[ID của GPU]"`
 - Nếu muốn chạy cả hai con đồng thời (Không khuyến khích): `export CUDA_VISIBLE_DEVICES="0,1"`
 
-- Việc huấn luyện, tinh chỉnh và suy diễn:
-  Định nghĩa:
+- Việc huấn luyện, tinh chỉnh và suy diễn:\
+  Định nghĩa:\
    Mô hình nhỏ: Là các mô hình có dưới 1 tỷ tham số (VD: BERT, BART, roBERTa,...)\
    Mô hình lớn: Là các mô hình có trên 1 tỷ tham số (VD: Llama-2, Mistral, TransformerXL,...)\
    - Được phép sử dụng GPU cho mục đích huấn luyện, tinh chỉnh các mô hình nhỏ và suy diễn các mô hình lớn.
