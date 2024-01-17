@@ -11,7 +11,7 @@
 
 ## 1. Hướng dẫn kết nối
 - Trước tiên, bạn phải liên hệ với anh Lê Công Thành để được tạo tài khoản. 
-- Sau khi đã có tài khoản, tiến hành đăng nhập theo cú pháp: <code>ssh [Tên tài khoản]@[IP cố định]<code> 
+- Sau khi đã có tài khoản, tiến hành đăng nhập theo cú pháp: <code>ssh [Tên tài khoản]@[IP cố định]<code>
 - Tiến hành nhập mật khẩu khi được nhắc.
 
 ## 2. Tạo workspace:
