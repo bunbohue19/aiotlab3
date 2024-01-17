@@ -26,7 +26,7 @@
 
 - Dung lượng của mỗi thư mục cá nhân được cài đặt tối đa là 50gb. Không được phép lưu trữ lớn hơn dung lượng này ở thư mục home.
  
-- Nếu muốn lưu trữ lớn hơn, bạn phải tạo thư mục cá nhân ở ổ cứng `/media/aiotlab3/27934be5-a11a-44ba-8b28-750d135bc3b3/RISE/[Họ tên riêng]`. Dung lượng tối đa cho phép ở dây cho mỗi cá nhân là 100gb.
+- Nếu muốn lưu trữ lớn hơn, bạn phải tạo thư mục cá nhân ở ổ cứng `/media/aiotlab3/27934be5-a11a-44ba-8b28-750d135bc3b3/RISE/[Họ tên riêng]`. Dung lượng tối đa cho phép ở đây cho mỗi cá nhân là 100gb.
 
 ### Sử dụng GPU:
 - Kiểm tra hoạt động của GPU: `nvidia -smi`
