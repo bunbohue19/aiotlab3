@@ -16,7 +16,7 @@
 
 ## 2. Tạo workspace:
 - Sau khi hoàn thành bước 1, đi đến thư mục của lab: `cd /home/aiotlab3/RISE`.
-- Tiến hành tạo thư mục cá nhân theo họ tên riêng: `mkdir [Họ tên riêng]`. Ví dụ: Tên là Nguyễn Văn An thì `mkdir [annv]`.
+- Tiến hành tạo thư mục cá nhân theo họ tên riêng: `mkdir [Họ tên riêng]`. Ví dụ: Tên là Nguyễn Văn An thì `mkdir annv`.
 - Nếu muốn cấu hình các tùy chỉnh theo cá nhân thì phải được lưu trong thư mục cá nhân này.
 
 ## Một số lưu ý chung:
