@@ -29,7 +29,7 @@
 - Nếu muốn lưu trữ lớn hơn, bạn phải tạo thư mục cá nhân ở ổ cứng `/media/aiotlab3/27934be5-a11a-44ba-8b28-750d135bc3b3/RISE/[Họ tên riêng]`. Dung lượng tối đa cho phép ở đây cho mỗi cá nhân là 100gb.
 
 ### Sử dụng GPU:
-- Kiểm tra hoạt động của GPU: `nvidia -smi`
+- Kiểm tra hoạt động của GPU: `nvidia-smi`
 - Có hai GPU: Con GTX TITAN X tên là `cuda:1` với ID là 0, con RTX 2080 Ti là `cuda:0` với ID là 1.
 - Nếu không tùy chỉnh, sẽ chỉ luôn chạy `cuda:0`
 
