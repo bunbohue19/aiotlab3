@@ -48,4 +48,4 @@ Chi tiết về số lượng tham số của mô hình có thể xem ở Huggin
 - Khi sử dụng chú ý lượng RAM, vì dung lượng của nó rất hạn chế (64gb) so với số người dùng, rất dễ xảy ra vấn đề tràn RAM nếu không kiểm soát. 
 - Không truy cập vào các tập tin và trình điều khiển hệ thống để tinh chỉnh tùy ý.
 
-Rất mong anh em sử dụng đúng quy định 🙂. Nếu phát hiện vi phạm sẽ bị anh Thành 🔪
+Rất mong anh em sử dụng đúng quy định 🙂. 
