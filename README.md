@@ -1,5 +1,4 @@
 # Quy tắc khi sử dụng máy chủ aiotlab3:
- - Tên máy chủ: `aiotlab3`
  - IP cố định: `202.191.58.201`
 
 ## Thông tin phần cứng của server:
@@ -9,24 +8,24 @@
 - GPU: NVIDIA GeForce RTX 2080 Ti
 - RAM: 64gb
 
-## 1. Hướng dẫn kết nối
-- Trước tiên, bạn phải liên hệ với anh Lê Công Thành để được tạo tài khoản. 
+## 1. Tạo tài khoản
+- Trước tiên, bạn phải liên hệ với anh [Lê Công Thành](https://www.facebook.com/thanh.toanlamson) để được tạo tài khoản.
+- Sau khi nhận tài khoản, bạn vui lòng khởi tạo lại mật khẩu mặc định.
+
+## 2. Kết nối
 - Sau khi đã có tài khoản, tiến hành đăng nhập theo cú pháp: `ssh [Tên tài khoản]@[IP cố định]`
 - Tiến hành nhập mật khẩu khi được nhắc.
 
-## 2. Tạo workspace:
-- Sau khi hoàn thành bước 1, đi đến thư mục của lab: `cd /home/aiotlab3/RISE`.
-- Tiến hành tạo thư mục cá nhân theo họ tên riêng: `mkdir [Họ tên riêng]`. Ví dụ: Tên là Nguyễn Văn An thì `mkdir annv`.
-- Nếu muốn cấu hình các tùy chỉnh theo cá nhân thì phải được lưu trong thư mục cá nhân này.
+## 2. Workspace:
+- Sau khi hoàn thành bước 1, bạn sẽ được tạo thư mục home tại [TODO] ở đó username là tên user của bạn.
+- Đối với bộ lưu trữ lâu dài, bạn vui lòng truy cập tại đường dẫn /media/aiotlab3/27934be5-a11a-44ba-8b28-750d135bc3b3/RISE/username ở đó username là tên user của bạn.
 
 ## Một số lưu ý chung:
 ### Lưu trữ dữ liệu:
 - Kiểm tra dung lượng cá nhân: `du -sh [Đường dẫn tới thư mục cá nhân của bạn]`. \
   Nếu bạn đang ở thư mục cá nhân thì chỉ cần gõ `du -sh .`
-
 - Dung lượng của mỗi thư mục cá nhân được cài đặt tối đa là 50gb. Không được phép lưu trữ lớn hơn dung lượng này ở thư mục home.
- 
-- Nếu muốn lưu trữ lớn hơn, bạn phải tạo thư mục cá nhân ở ổ cứng `/media/aiotlab3/27934be5-a11a-44ba-8b28-750d135bc3b3/RISE/[Họ tên riêng]`. Dung lượng tối đa cho phép ở đây cho mỗi cá nhân là 100gb.
+- Nếu muốn lưu trữ lớn hơn, bạn phải tạo thư mục cá nhân ở ổ cứng HDD `/media/aiotlab3/27934be5-a11a-44ba-8b28-750d135bc3b3/RISE/[Họ tên riêng]`. Dung lượng tối đa cho phép ở đây cho mỗi cá nhân là 100gb.
 
 ### Sử dụng GPU:
 - Kiểm tra hoạt động của GPU: `nvidia-smi`
