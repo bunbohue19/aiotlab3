@@ -16,7 +16,7 @@
 - Sau khi đã có tài khoản, tiến hành đăng nhập theo cú pháp: `ssh [Tên tài khoản]@[IP cố định]`
 - Tiến hành nhập mật khẩu khi được nhắc.
 
-## 2. Workspace:
+## 3. Workspace:
 - Sau khi hoàn thành bước 1, bạn sẽ được tạo thư mục home tại [TODO] ở đó username là tên user của bạn.
 - Đối với bộ lưu trữ lâu dài, bạn vui lòng truy cập tại đường dẫn /media/aiotlab3/27934be5-a11a-44ba-8b28-750d135bc3b3/RISE/username ở đó username là tên user của bạn.
 
