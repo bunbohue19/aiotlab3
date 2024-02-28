@@ -13,7 +13,7 @@
 - Sau khi nhận tài khoản, bạn vui lòng khởi tạo lại mật khẩu mặc định.
 
 ## 2. Kết nối
-- Sau khi đã có tài khoản, tiến hành đăng nhập theo cú pháp: `ssh [Tên tài khoản]@[IP cố định]`
+- Sau khi đã có tài khoản, tiến hành đăng nhập theo cú pháp: `ssh [Tên tài khoản]@[IP public]`
 - Tiến hành nhập mật khẩu khi được nhắc.
 
 ## 3. Workspace:
