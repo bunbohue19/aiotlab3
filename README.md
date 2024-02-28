@@ -17,7 +17,7 @@
 - Tiến hành nhập mật khẩu khi được nhắc.
 
 ## 3. Workspace:
-- Sau khi hoàn thành bước 1, bạn sẽ được tạo thư mục home tại [TODO] ở đó username là tên user của bạn.
+- Sau khi hoàn thành bước 1, bạn sẽ được tạo thư mục home tại /users/$username ở đó username là tên user của bạn.
 - Đối với bộ lưu trữ lâu dài, bạn vui lòng truy cập tại đường dẫn /media/aiotlab3/27934be5-a11a-44ba-8b28-750d135bc3b3/RISE/username ở đó username là tên user của bạn.
 
 ## Một số lưu ý chung:
